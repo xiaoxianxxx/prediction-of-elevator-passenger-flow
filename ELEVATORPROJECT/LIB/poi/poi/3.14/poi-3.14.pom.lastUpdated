@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 26 11:31:10 CST 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1658806270697
+http\://0.0.0.0/.error=Could not transfer artifact org.apache.poi\:poi\:pom\:3.14 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [maven-ali (http\://maven.aliyun.com/nexus/content/groups/public//, default, releases+snapshots)]
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1658806270312
